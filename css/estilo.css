@@ -83,9 +83,9 @@ ul > a:hover {
 }
 
 #link-topoT  > img {
-  width: 50px;
+  width: 52px;
   margin: 0px;
-  border-radius: 50%;
+  border-radius: 20%;
   background-color: rgba(0, 0, 255, 0);
   margin-top: -50px;
   margin-left: 10px;
