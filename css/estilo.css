@@ -120,7 +120,7 @@ ul > a:hover {
   padding: 20px;
   position: fixed;
   right: 10px;
-  top: 80px;
+  top: 125px;
   border-radius: 50%;
   box-shadow: none;
   opacity: .8;
@@ -130,7 +130,7 @@ ul > a:hover {
   opacity: 1;
   box-shadow: none;
   right: 5px;
-  top: 85px;
+  top: 130px;
 }
 
 #link-topoT2  > img {
@@ -163,7 +163,7 @@ ul > a:hover {
   padding: 20px;
   position: fixed;
   right: 10px;
-  top: 125px;
+  top: 65px;
   border-radius: 20%;
   box-shadow: none;
   opacity: .7;
@@ -173,7 +173,7 @@ ul > a:hover {
   opacity: 1;
   box-shadow: none;
   right: 5px;
-  top: 130px;
+  top: 70px;
 }
 
 #link-topoT3  > img {
